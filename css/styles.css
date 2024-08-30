@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.principal{
+    background-image:linear-gradient(
+        rgba(0,0,0,0.3),
+        rgba(0,0,0,0.3)),
+        url("../img/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Hachi Maru Pop", cursive;
+    font-weight: 800;
+}
+.MENU{
+    background-image:linear-gradient(
+        rgba(0,0,0,0.3),
+        rgba(0,0,0,0.3)),
+        url("../img/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Hachi Maru Pop", cursive;
+    font-weight: 800;
+}
+.SOMOS{
+    background-image:linear-gradient(
+        rgba(0,0,0,0.3),
+        rgba(0,0,0,0.3)),
+        url("../img/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Hachi Maru Pop", cursive;
+    font-weight: 800;
+}
+.CONTA{
+    background-image:linear-gradient(
+        rgba(0,0,0,0.3),
+        rgba(0,0,0,0.3)),
+        url("../img/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Hachi Maru Pop", cursive;
+    font-weight: 800;
+}
+
+.img-fluid{
+    width: 600px;
+    height: 300px;
+}
+
+.reserva{
+    background-image:linear-gradient(
+        rgba(0,0,0,0.3),
+        rgba(0,0,0,0.3)),
+        url("../img/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Hachi Maru Pop", cursive;
+    font-weight: 800;
+}
+
+.ne {
+
+    font-family: "Alfa Slab One", serif;
+    font-weight: 900;
+
+      
+}
+
